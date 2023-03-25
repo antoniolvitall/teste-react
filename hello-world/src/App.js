@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello World react</h1>
-      <p>emmet funconou</p>
+      <p class='estilo'>emmet funconou</p>
     </div>
   );
 }
