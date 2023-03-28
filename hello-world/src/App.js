@@ -1,3 +1,8 @@
+// components
+
+import FirstComponent from "./components/FirstComponent"
+
+// style / css
 import logo from './logo.svg';
 import './App.css';
 
