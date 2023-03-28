@@ -1,11 +1,13 @@
 // components
 
 import FirstComponent from './components/FirstComponent'
+import TemplateExpressions from './components/TemplateExpressions';
+import MyComponent from './components/MyComponent';
 
 // style / css
 
 import './App.css';
-import TemplateExpressions from './components/TemplateExpressions';
+
 
 function App() {
   return (
@@ -14,6 +16,7 @@ function App() {
       <p class='estilo'>emmet funcionou</p>
       <FirstComponent/>
       <TemplateExpressions/>
+      <MyComponent/>
     </div>
   );
 }
