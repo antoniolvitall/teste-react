@@ -1,8 +1,17 @@
+// arquivos de estilo
+
 const FirstComponent = () => {
+    // essa funcao cria os componentes
+
+    /* 
+        comentario de multiplas linhas
+     */
+
     return (
         <div>
+            {/* comentario aqui */}
             <h1>Meu primeiro componente</h1>
-            <p>Meu texto</p>
+            <p className="teste">Meu texto</p>
         </div>
     );
 };
