@@ -6,7 +6,6 @@ const FirstComponent = () => {
     /* 
         comentario de multiplas linhas
      */
-
     return (
         <div>
             {/* comentario aqui */}
