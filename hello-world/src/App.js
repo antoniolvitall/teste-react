@@ -1,9 +1,7 @@
 // components
-
 import FirstComponent from "./components/FirstComponent"
 
 // style / css
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -11,6 +9,7 @@ function App() {
     <div className="App">
       <h1>Hello World react</h1>
       <p class='estilo'>emmet funconou</p>
+      <FirstComponent/>
     </div>
   );
 }
